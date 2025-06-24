@@ -1,8 +1,8 @@
 📊 Sales Performance Dashboard – Excel Project
-A comprehensive Excel-based Sales Performance Dashboard designed to empower data-driven decisions in sales operations. This project demonstrates end-to-end capabilities in data cleaning, feature engineering, and KPI visualization, simulating a real-world sales analytics use case.
+--A comprehensive Excel-based Sales Performance Dashboard designed to empower data-driven decisions in sales operations. This project demonstrates end-to-end capabilities in data cleaning, feature engineering, and KPI visualization, simulating a real-world sales analytics use case.
 
 🚀 Overview
-This project showcases how raw transactional sales data can be transformed into actionable insights through Excel dashboards. It supports regional and product-level performance tracking, revenue trend analysis, and sales rep effectiveness monitoring, with automation features for scalability and reuse.
+--This project showcases how raw transactional sales data can be transformed into actionable insights through Excel dashboards. It supports regional and product-level performance tracking, revenue trend analysis, and sales rep effectiveness monitoring, with automation features for scalability and reuse.
 
 🔧 Tools & Technologies
 Microsoft Excel – PivotTables, Slicers, Conditional Formatting, Charts
